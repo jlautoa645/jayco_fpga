@@ -1,1 +1,1 @@
-fpga development repository for drone modem
+fpga development repository for drone modem and avionics
